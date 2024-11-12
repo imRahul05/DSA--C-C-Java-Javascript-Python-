@@ -1,0 +1,12 @@
+[submodule "OS_c_program"]
+	path = OS_c_program
+	url = https://github.com/imRahul05/OS_c_program.git
+[submodule "C_programDS"]
+	path = C_programDS
+	url = https://github.com/imRahul05/C_programDS.git
+[submodule "java_programs"]
+	path = java_programs
+	url = https://github.com/imRahul05/java_programs.git
+[submodule "js1"]
+	path = js1
+	url = https://github.com/imRahul05/js1.git
